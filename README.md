@@ -38,7 +38,7 @@
     <rect x="86" y="201" width="6" height="4" fill="#f07840" opacity=".7"/>
     <!-- Score counter -->
     <rect x="24" y="222" width="100" height="16" fill="#0e1828"/>
-    <text x="28" y="234" font-family="monospace" font-size="12" fill="#ff2244">HI, IT'S ME DEVKLY</text>
+    <text x="28" y="234" font-family="monospace" font-size="12" fill="#ff2244">### HI, IT'S ME DEVKLY</text>
     <!-- Center top terminal -->
     <rect x="200" y="10" width="280" height="70" fill="#1c2848"/>
     <rect x="208" y="18" width="264" height="54" fill="#081422"/>
